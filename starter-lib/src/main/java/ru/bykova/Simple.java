@@ -1,3 +1,5 @@
+package ru.bykova;
+
 public class Simple {
     private int value;
 
